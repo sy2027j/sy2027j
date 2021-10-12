@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **sy2027j/sy2027j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
+### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy2027j&show_icons=true&theme=radical)
 </div>
