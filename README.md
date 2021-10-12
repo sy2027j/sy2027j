@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-Hi there 👋   
+Hello I'm SeoYoung 👋
+  <hr>
+  <br/>
 </div>
 <div align=center>
 
