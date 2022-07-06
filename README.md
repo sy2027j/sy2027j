@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-    Hello I'm SeoYoung 👩‍🍳👩‍🍳👩‍🍳
+    Hello I'm SeoYoung Jeon 👩‍🍳👩‍🍳👩‍🍳
   <br/>
 </div>
 <div align=center>
