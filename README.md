@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <div align=center>
     <h3>Hello! I'm SeoYoung Jeon 👩‍🍳👩‍🍳</h3>
-    <hr>
+    <br/>
 </div>
 
 <div align="center">
