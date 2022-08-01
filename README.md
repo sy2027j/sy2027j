@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div align=center>
     <h3>Hello! I'm SeoYoung Jeon 👩‍🍳👩‍🍳</h3><br/>
 </div>
 
-<!--<div align=center><h3>📚 STACKS</h3></div>-->
+<div align=center><h3>📚 STACKS</h3></div>
 
 <div align=center> 
 
@@ -42,15 +42,18 @@ Here are some ideas to get you started:
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sy2027j&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 </div>
+-->
 
+<div align=center>
+    <h3>Hello! I'm SeoYoung Jeon 👩‍🍳👩‍🍳</h3><br/>
+</div>
 
 <div align="center">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sy2027j&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
-  ### 🐣 Hello I'm Seoyoung 🐥 
   
-  ---
+  <h4>Once I've used...✏️</h4> 
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
