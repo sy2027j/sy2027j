@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <!--
 <div align=center>
     <h3>Hello! I'm SeoYoung Jeon 👩‍🍳👩‍🍳</h3><br/>
+    
 </div>
 
 <div align=center><h3>📚 STACKS</h3></div>
@@ -45,7 +46,8 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-    <h3>Hello! I'm SeoYoung Jeon 👩‍🍳👩‍🍳</h3><br/>
+    <h3>Hello! I'm SeoYoung Jeon 👩‍🍳👩‍🍳</h3>
+    <hr>
 </div>
 
 <div align="center">
