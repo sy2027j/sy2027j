@@ -46,15 +46,15 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-    <h3>Hello! I'm SeoYoung Jeon 👩‍🍳👩‍🍳</h3>
-    <hr/>
+    <h3>Hello! I'm SeoYoung Jeon 🍀</h3>
+    
 </div>
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sy2027j&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sy2027j&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
-  
+  <!--
   <h4>Once I've used...✏️</h4> 
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
+  -->
   <br>
  
 </div>
